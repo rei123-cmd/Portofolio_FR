@@ -14,7 +14,7 @@ export function FeaturedProjects() {
         <SectionHeading
           eyebrow="Selected Work"
           title="Featured projects"
-          description="A handful of projects that best represent how I approach problems — from concept through to shipped product."
+          description="A handful of projects that best represent how I approach problems from concept through to shipped product."
           className="mb-0"
         />
         <Button href="#" variant="text" size="md">

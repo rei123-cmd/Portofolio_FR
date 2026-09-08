@@ -12,6 +12,5 @@ export const navItems: NavItem[] = [
 export const socialLinks: SocialLink[] = [
   { label: "GitHub", href: "https://github.com/rei123-cmd", icon: "github" },
   { label: "LinkedIn", href: "https://linkedin.com/in/FilbertRei", icon: "linkedin" },
-  { label: "Twitter", href: "https://twitter.com/yourusername", icon: "twitter" },
-  { label: "Email", href: "mailto:hello@example.com", icon: "mail" },
+  { label: "Email", href: "mailto:filbertrei12@gmail.com", icon: "mail" },
 ];

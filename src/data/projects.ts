@@ -11,18 +11,18 @@ import type { Project } from "@/types";
 export const projects: Project[] = [
   {
     slug: "project-one",
-    title: "Project One",
+    title: "Hunger-Switch",
     description:
-      "Replace with a one-sentence summary (under 60 words) of what this project does and who it's for.",
+      "Platform penyelamat surplus makanan untuk mengurangi limbah sekaligus membantu sesama yang membutuhkan, menciptakan dampak sosial nyata dengan mudah dan cepat.",
     role: "Full Stack Developer",
-    year: "2026",
+    year: "2025",
     category: ["Full Stack", "AI"],
     techStack: ["Next.js", "TypeScript", "PostgreSQL", "OpenAI"],
     features: ["Authentication", "Dashboard", "AI Chat", "Analytics"],
     challenge:
       "Describe a real engineering decision you made here — e.g. how you handled streaming responses or state consistency.",
     outcome: "Replace with a measurable result, e.g. reduced load time by 40%.",
-    liveUrl: "#",
+    liveUrl: "https://hungerswitch-app.vercel.app/",
     repoUrl: "#",
     featured: true,
   },
@@ -30,7 +30,7 @@ export const projects: Project[] = [
     slug: "project-two",
     title: "Project Two",
     description:
-      "Replace with a one-sentence summary (under 60 words) of what this project does and who it's for.",
+      "Tempat seru untuk bermain biliar dengan suasana menyenangkan, fasilitas lengkap, dan tempat nongkrong asik bersama teman.",
     role: "Frontend Engineer",
     year: "2025",
     category: ["Frontend", "Design"],
@@ -38,15 +38,15 @@ export const projects: Project[] = [
     features: ["Responsive Design", "Interactive UI", "Micro-interactions"],
     challenge: "Describe a real constraint you solved — performance, accessibility, or layout.",
     outcome: "Replace with a measurable result, e.g. improved Lighthouse score to 98.",
-    liveUrl: "#",
+    liveUrl: "https://legacy-billiard.vercel.app/",
     repoUrl: "#",
     featured: true,
   },
   {
     slug: "project-three",
-    title: "Project Three",
+    title: "Circuit Go",
     description:
-      "Replace with a one-sentence summary (under 60 words) of what this project does and who it's for.",
+      "Platform pembelajaran teknologi digital yang menyediakan kursus interaktif dan mentorship untuk pemula.",
     role: "AI Engineer",
     year: "2025",
     category: ["AI", "Backend"],
