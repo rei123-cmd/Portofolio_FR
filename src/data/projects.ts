@@ -13,7 +13,7 @@ export const projects: Project[] = [
     slug: "project-one",
     title: "Hunger-Switch",
     description:
-      "Platform penyelamat surplus makanan untuk mengurangi limbah sekaligus membantu sesama yang membutuhkan, menciptakan dampak sosial nyata dengan mudah dan cepat.",
+      "A dedicated food-rescue platform designed to minimize surplus food waste while directly supporting those in need, creating a sustainable and meaningful social impact.",
     role: "Full Stack Developer",
     year: "2025",
     category: ["Full Stack", "AI"],
@@ -28,9 +28,9 @@ export const projects: Project[] = [
   },
   {
     slug: "project-two",
-    title: "Project Two",
+    title: "Legacy Billiard",
     description:
-      "Tempat seru untuk bermain biliar dengan suasana menyenangkan, fasilitas lengkap, dan tempat nongkrong asik bersama teman.",
+      "A vibrant and fun place to play billiard, offering great facilities, an exciting atmosphere, and the ultimate hangout spot for friends.",
     role: "Frontend Engineer",
     year: "2025",
     category: ["Frontend", "Design"],
