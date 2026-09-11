@@ -21,18 +21,13 @@ export function AboutSection() {
             {/* PLACEHOLDER — replace with a real first-person introduction,
                 following CONTENT.docx: focus on mindset, not biography. */}
             <p>
-              I specialize in building AI-powered products and interactive interfaces, working
-              across the full stack from data and infrastructure to the pixels people actually
-              touch.
+              I build software by combining full-stack development with prompt engineering and AI-assisted workflows. I use AI not just to generate code, but to solve problems, explore better approaches, and turn ideas into working products faster.
             </p>
             <p>
-              Currently I&apos;m focused on combining large language models with thoughtful
-              product design — the kind of work where a good architecture decision matters as
-              much as a good animation curve.
+              My approach is centered around vibe coding, where I use natural language, strong prompting, and iterative development to move from an idea to a functional product efficiently. I focus on understanding what needs to be built first, then use AI as a development partner throughout the process.
             </p>
             <p>
-              I care about code that a future engineer can understand in two years, and interfaces
-              that feel effortless the first time someone uses them.
+               I care about using AI efficiently without losing control of the code. Good prompts, clear structure, and human judgment still matter to me, because the goal is not simply to generate more code, but to build software that actually works and makes sense.
             </p>
           </div>
         </RevealOnScroll>

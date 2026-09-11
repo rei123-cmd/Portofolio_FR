@@ -11,7 +11,7 @@ export function ExperienceSection() {
       <SectionHeading
         eyebrow="Experience"
         title="Where I've worked"
-        description="Impact over responsibilities — what changed because I was there."
+        description="Impact over responsibilities what changed because I was there."
       />
 
       <motion.ol

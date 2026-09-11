@@ -26,27 +26,28 @@ export const skillCategories: SkillCategory[] = [
     skills: [
       { name: "OpenAI" },
       { name: "Claude" },
-      { name: "LangChain" },
+      { name: "Gemini" },
       { name: "Prompt Engineering" },
-      { name: "RAG" },
+      { name: "Kimi" },
+      { name: "" }
     ],
   },
   {
     category: "Cloud & DevOps",
     skills: [
       { name: "Vercel" },
-      { name: "AWS" },
+      { name: "MySQL" },
       { name: "Docker" },
-      { name: "CI/CD" },
+      { name: "Supabase" },
     ],
   },
 ];
 
 // PLACEHOLDER — replace with real, verifiable numbers. Do not fabricate.
 export const statistics: Statistic[] = [
-  { label: "Projects Shipped", value: 0 },
-  { label: "Years Experience", value: 0 },
-  { label: "Repositories", value: 0 },
+  { label: "Projects Shipped", value: 5 },
+  { label: "Years Experience", value: 3 },
+  { label: "Repositories", value: 3 },
   { label: "Open Source Contributions", value: 0 },
 ];
 
@@ -55,15 +56,15 @@ export const timeline: TimelineEntry[] = [
   {
     date: "2025",
     role: "Full Stack Developer",
-    organization: "Circuit Go",
-    description: "Replace with impact, not a job description — what changed because you were there.",
-    technologies: ["Next.js", "TypeScript"],
+    organization: "Hunger-Switch",
+    description: "simplified food and monetary donations while giving admins a centralized system to manage agents, partners, donated food, and distribution.",
+    technologies: ["Laravel", "JS"],
   },
   {
     date: "2025",
     role: "Full Stack Developer",
     organization: "Legacy Billiard",
-    description: "Replace with impact, not a job description.",
-    technologies: ["React", "Node.js"],
+    description: "streamlined billiard table booking and tournament management by bringing customer and admin operations into one centralized platform.",
+    technologies: [ "Laravel", "PHP", "MySQL"],
   },
 ];
